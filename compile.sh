@@ -12,7 +12,7 @@ symlinks_dir="symlinks"
 
 imgs_dir="imgs"
 
-resolutions=(16 24 32 48 64 128)
+resolutions=(16 20 24 28 32 36 40 44 48 64 128)
 
 imgs=()
 for file_name in $(ls $src_dir)

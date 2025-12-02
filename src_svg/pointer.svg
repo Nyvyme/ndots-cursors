@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-200.81833"
-     inkscape:cy="234.75945"
+     inkscape:zoom="1"
+     inkscape:cx="-48"
+     inkscape:cy="268"
      inkscape:window-width="2546"
      inkscape:window-height="1029"
      inkscape:window-x="0"
@@ -151,12 +151,12 @@
        cy="50"
        r="48.076923" />
     <circle
-       style="fill:#ffffff;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:38.4;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#ffffff;stroke:#000000;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:38.4;stroke-opacity:1;paint-order:stroke fill markers"
        id="path1"
        cx="50"
        cy="50"
        inkscape:label="dot"
-       r="18" />
+       r="12" />
     <circle
        style="fill:#000000;stroke-width:0.264583"
        id="circle6"
